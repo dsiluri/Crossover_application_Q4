@@ -23,7 +23,7 @@ The customer data was not sent from AES EDI. The investigation showed that the f
 
 
 | Time          | Description   | 
-| ------------- |:-------------:|
+| ------------- |-------------|
 | 11:56         | Discovering of the missing files |
 | 12:00      | Restarting of the AES CIS monitoring module      |
 | 12:15 | Starting of the data processing of the records files     |
