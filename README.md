@@ -36,10 +36,13 @@ Customer created a Jira Ticket to alert us on this failure. Please refer JIRA Is
 A large amount of files were not processed.
 
 ## Resolution
-Reloading the AES CIS monitoring service allowed us to spot the missed records that were not discovered automatically. Following this the data file was resent leading to the resolution.
+Reloading the AES CIS monitoring service allowed us to spot the missed records that were not discovered automatically.
+Following this the data file was resent leading to the resolution.
 
 ## Recommendations
 More monitoring plugins and modules to watch this critical part of our infrastructure.
+
 Slack notifications have to be added for alerting the team whenever a data discrepancy is detected in future so that such occurences are prevented in future.
+
 Patching opearations should not be executed while data processing is in progress at AES EDI.
 
