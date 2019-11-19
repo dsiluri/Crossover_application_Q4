@@ -6,28 +6,34 @@ PostMortem/Root Cause Analysis for AES EDI | JIRA Issue ( AESEDI-53447)
 ## Report Status
 Resolved
 
-## Executive Summary
+## Outage Description
 The customer data was not sent from AES EDI. The investigation showed that the file with the data was sent however, it did not get processed due to an issue with the AES CIS service.
 
-Outage Description
+## Affected users
 
-Affected users
+## Start Date/Time
 
-Start Date/Time
+## End Date/Time
 
-End Date/Time
+## Duration
 
-Duration
+## Timeline
 
-Timeline
+11/19/2019
 
-Contributing Conditions Analysis
+Time	Description
+11:56	Discovering of the missing files
+12:00	Restarting of the AES CIS monitoring module
+12:15	Starting of the data processing of the records files
+13:00	Completion of the data processing of all the 486,000 records files
 
-What went well?
+## Contributing Conditions Analysis
 
-What could have gone better?
+## What went well?
 
-Recommendations
+## What could have gone better?
 
-Names of people involved
+## Recommendations
+
+## Names of people involved
 
