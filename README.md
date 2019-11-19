@@ -21,11 +21,16 @@ The customer data was not sent from AES EDI. The investigation showed that the f
 
 11/19/2019
 
-Time	Description
-11:56	Discovering of the missing files
-12:00	Restarting of the AES CIS monitoring module
-12:15	Starting of the data processing of the records files
-13:00	Completion of the data processing of all the 486,000 records files
+
+| Time          | Description   | 
+| ------------- |:-------------:|
+| 11:56         | Discovering of the missing files |
+| 12:00      | Restarting of the AES CIS monitoring module      |
+| 12:15 | Starting of the data processing of the records files     |
+| 13:00	        | Completion of the data processing of all the 486,000 records files
+
+	
+
 
 ## Contributing Conditions Analysis
 
