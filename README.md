@@ -38,7 +38,7 @@ Users related to EDI-CIS monitoring service.
 Customer created a Jira Ticket to alert us on this failure. Please refer JIRA Issue: (AESEDI-53447)
 A large amount of files were not processed.
 
-## Resolution?
+## Resolution
 Reloading the AES CIS monitoring service allowed us to spot the missed records that were not discovered automatically. Following this the data file was resent leading to the resolution.
 
 ## Recommendations
