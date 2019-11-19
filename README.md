@@ -1,8 +1,5 @@
 # PostMortem/Root Cause Analysis for AES EDI | JIRA Issue ( AESEDI-53447)
 
-## Title
-PostMortem/Root Cause Analysis for AES EDI | JIRA Issue ( AESEDI-53447)
-
 ## Author
 Davide Siluri
 
